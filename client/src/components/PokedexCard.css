@@ -1,0 +1,30 @@
+.pokedexCard__container {
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+    display: inline-block;
+    width: 300px;
+    color: black;
+    height: 300px;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px;
+    
+    
+}
+
+.pokedexCard__name,
+.pokedexCard__type {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.pokedexCard__image {
+    margin-top: 30px;
+    height: 100px;
+}
+.pokedexCard__info {
+    height: 80%;
+    padding: 30px;
+}
