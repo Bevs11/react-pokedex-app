@@ -1,0 +1,36 @@
+h1 {
+    font-family: sans-serif;
+  }
+  
+  .cardContainer {
+    background-color: #9300c5;
+    color: white;
+    text-align: center;
+    width: 640px;
+    padding: 20px;
+    margin: 0 auto;
+  }
+  
+  .header,
+  .loadButton {
+    width: 500px;
+    margin: auto;
+  }
+  
+  .allPokemon {
+    display: inline;
+  } 
+
+  .PokemonTypePage__link {
+    width: 50%;
+    height: 30px;
+    margin-left: 10px;
+    color: rgb(146, 37, 37);
+    background-color: rgb(189, 125, 173);
+    border: 1px solid white;
+    border-radius: 10px;
+  }
+  h3 {
+    margin: 5px;
+  }
+  
